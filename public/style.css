@@ -184,7 +184,7 @@ body {
 .about-us {
   height: 70vh;
   margin: 160px 0;
-  background-image: url(Images/About\ us\ img.webp);
+  background-image: url(images/About\ us\ img.webp);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -224,7 +224,7 @@ body {
 }
 
 .menu-div {
-  background: url(Images/Menu\ pic.png) no-repeat center center;
+  background: url(images/Menu\ pic.png) no-repeat center center;
   width: 100%;
   height: 36vh;
   background-size: cover;
